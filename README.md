@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, i am Michel 👋
+
+<div align = "center">
+<img src = "https://ibb.co/fGX6tFt">
 
 <!--
 **Michel-Rodriguez/Michel-Rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
