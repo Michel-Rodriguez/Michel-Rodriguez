@@ -19,8 +19,16 @@ Here are some ideas to get you started:
 
 ### About me!
 
-- 📲 Mobile developer
-- ☕ Java developer
+I am a motivated developer with key qualities diligence, responsibility and punctuality. Enjoy new challenges.
+
+Proficiency in: 
+
+- ☕ Java 
 - 👽 Kotlin 
+- 📲 Android SDK
+
+Experience with Android architecture components (ViewModel, Room, LiveData), Retrofit, Glide, Picasso, REST, JSON, Firebase, SQLite, Realm, MVVM, Coroutines.
+
+
 
 
