@@ -1,7 +1,7 @@
 ### Hi, i am Michel 👋
 
 <div align = "center">
-<img src = "[https://ibb.co/fGX6tFt](https://i.ibb.co/7NSMVCV/bannGh.png)">
+<img src = "https://i.ibb.co/7NSMVCV/bannGh.png">
 
 <!--
 **Michel-Rodriguez/Michel-Rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
