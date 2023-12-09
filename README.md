@@ -1,6 +1,6 @@
-### Hi, i am Michel 👋
-
-<div align = "center">
+<div align = "center"><h1>### Hi, i am Michel Rodriguez </h1> 👋
+</div>
+  
 <img src = "https://i.ibb.co/7NSMVCV/bannGh.png">
 
 <!--
