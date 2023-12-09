@@ -45,7 +45,7 @@ Experience with Android architecture components (ViewModel, Room, LiveData), Ret
 # 📚 Frameworks, Platforms and Libraries
 
 
-Flutter	![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  
 
@@ -57,7 +57,7 @@ Flutter	![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 🎋 ORM
-Hibernate	![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+Hibernate	![Hibernate]()
 
 ## Contact me
 
