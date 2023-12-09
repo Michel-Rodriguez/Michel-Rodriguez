@@ -1,6 +1,5 @@
-<div align = "center"><h1>### Hi, i am Michel Rodriguez </h1> 👋
+<div align = "center"><h1>Hi, i am Michel Rodriguez 💻 </h1> 👋
 </div>
-  
 <img src = "https://i.ibb.co/7NSMVCV/bannGh.png">
 
 <!--
@@ -17,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me!
+
+- 📲 Mobile developer
+- ☕ Java developer
+- 👽 Kotlin 
+
+
